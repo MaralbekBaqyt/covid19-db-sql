@@ -1,2 +1,2 @@
-# covid19-db-sql
-COVID-19 Database project
+# Содержание проекта можете посмотреть в PDF файле
+
